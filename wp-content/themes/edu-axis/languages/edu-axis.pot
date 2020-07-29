@@ -1,0 +1,4755 @@
+# <!=Copyright (C) 2020 Refresh Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Edu Axis 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-24 01:49:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Refresh Themes <refreshthemes@gmail.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../edu-axis\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:22
+msgid "Try a search again?"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:34
+#. translators: 1: Theme name, 2: Theme author.
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:46
+msgid "Primary"
+msgstr ""
+
+#: functions.php:47
+msgid "Top Right"
+msgstr ""
+
+#: functions.php:48
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:27 inc/helper/helper-common.php:205
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:28
+msgid "Category : <em>%s</em>"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:29
+msgid "Archive : <em>%s</em>"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:30
+msgid "Search results for: <em>%s</em>"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:31
+msgid "Posts tagged :<em>%s</em>"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "View all posts by <em>%s</em>"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:33 inc/helper/helper-common.php:227
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:208
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-dropdown-post-controls.php:36
+msgid "Select"
+msgstr ""
+
+#: inc/customizer/font-options/font-options.php:142
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/font-options/font-options.php:146
+#: inc/customizer/theme-options.php:286
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/panel.php:15
+msgid "Theme Options "
+msgstr ""
+
+#: inc/customizer/panel.php:16
+msgid "Theme Options."
+msgstr ""
+
+#: inc/customizer/panel.php:20
+msgid "Front Page Options "
+msgstr ""
+
+#: inc/customizer/panel.php:21
+msgid "Front Page Options."
+msgstr ""
+
+#: inc/customizer/sections.php:17
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/sections.php:22
+msgid "Loader"
+msgstr ""
+
+#: inc/customizer/sections.php:27
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/sections.php:32
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer/sections.php:33
+msgid "Check to enable Topbar."
+msgstr ""
+
+#: inc/customizer/sections.php:38
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/sections.php:43
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/sections.php:48 inc/helper/helper-common.php:203
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/sections.php:53
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/sections.php:58
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/sections.php:63
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/sections.php:68
+msgid "Back to Top"
+msgstr ""
+
+#: inc/customizer/sections.php:75
+msgid "Edu Axis Slider"
+msgstr ""
+
+#: inc/customizer/sections.php:80
+msgid "Why us Section"
+msgstr ""
+
+#: inc/customizer/sections.php:85
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/sections.php:90
+msgid "About us Section"
+msgstr ""
+
+#: inc/customizer/sections.php:95
+msgid "Available Classes Section"
+msgstr ""
+
+#: inc/customizer/sections.php:101
+msgid "Call to action Section"
+msgstr ""
+
+#: inc/customizer/sections.php:106
+msgid "Recent Blog"
+msgstr ""
+
+#: inc/customizer/sections.php:107
+msgid "For more options, go to \"Theme Options > Blog\""
+msgstr ""
+
+#: inc/customizer/sections.php:114
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/customizer/settings.php:18
+msgid "Header Title Color"
+msgstr ""
+
+#: inc/customizer/settings.php:37
+msgid "Sidebar Position - Page"
+msgstr ""
+
+#: inc/customizer/settings.php:46
+msgid "Sidebar Position - Post"
+msgstr ""
+
+#: inc/customizer/settings.php:55
+msgid "Sidebar Position - Home Page"
+msgstr ""
+
+#: inc/customizer/settings.php:64
+msgid "Sidebar Position - Blog / archive"
+msgstr ""
+
+#: inc/customizer/settings.php:84
+msgid "Show Title"
+msgstr ""
+
+#: inc/customizer/settings.php:92
+msgid "Show Tagline"
+msgstr ""
+
+#: inc/customizer/settings.php:100
+msgid "Sticky Primary Menu"
+msgstr ""
+
+#: inc/customizer/settings.php:121
+msgid "Hide Post date."
+msgstr ""
+
+#: inc/customizer/settings.php:129
+msgid "Hide Post author."
+msgstr ""
+
+#: inc/customizer/settings.php:137
+msgid "Hide Post category."
+msgstr ""
+
+#: inc/customizer/settings.php:145
+msgid "Hide Post tags."
+msgstr ""
+
+#: inc/customizer/settings.php:153
+msgid "Hide Post featured image."
+msgstr ""
+
+#: inc/customizer/settings.php:161
+msgid "Hide Blog Content"
+msgstr ""
+
+#: inc/customizer/settings.php:169
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/settings.php:180
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/settings.php:193
+msgid "Read more text"
+msgstr ""
+
+#: inc/customizer/settings.php:207
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/settings.php:217
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/settings.php:236
+msgid "Scroll Speed"
+msgstr ""
+
+#: inc/customizer/settings.php:259
+msgid "Slider Type"
+msgstr ""
+
+#: inc/customizer/settings.php:269
+msgid "Number of Slider"
+msgstr ""
+
+#: inc/customizer/settings.php:276
+msgid "Please enter number of slides between 1 - 3. Save them and refresh the page."
+msgstr ""
+
+#: inc/customizer/settings.php:283
+msgid "Use Header image"
+msgstr ""
+
+#: inc/customizer/settings.php:286
+msgid "Use header image instead of slider if slider is disabled."
+msgstr ""
+
+#: inc/customizer/settings.php:303 inc/customizer/settings.php:346
+#: inc/customizer/settings.php:389 inc/customizer/settings.php:439
+#: inc/widgets/modules/author.php:27
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/settings.php:311 inc/widgets/modules/author.php:36
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/settings.php:328
+msgid "About us Page"
+msgstr ""
+
+#: inc/customizer/settings.php:354 inc/customizer/settings.php:447
+msgid "Sub title"
+msgstr ""
+
+#: inc/customizer/settings.php:362
+msgid "Course 1"
+msgstr ""
+
+#: inc/customizer/settings.php:368
+msgid "Course 2"
+msgstr ""
+
+#: inc/customizer/settings.php:374
+msgid "Course 3"
+msgstr ""
+
+#: inc/customizer/settings.php:397
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/settings.php:405
+msgid "Readmore text"
+msgstr ""
+
+#: inc/customizer/settings.php:413
+msgid "Readmore link"
+msgstr ""
+
+#: inc/customizer/settings.php:421
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/settings.php:457
+msgid "Reset all to default"
+msgstr ""
+
+#: inc/customizer/settings.php:460
+msgid ""
+"Caution: Reset all options settings to default. Refresh the page after save "
+"to view the effects."
+msgstr ""
+
+#: inc/customizer/theme-options.php:58
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/theme-options.php:64
+msgid "&copy; Copyright. All Right Reserved."
+msgstr ""
+
+#: inc/customizer/theme-options.php:84
+msgid "Why Edu Axis"
+msgstr ""
+
+#: inc/customizer/theme-options.php:85 inc/customizer/theme-options.php:137
+msgid "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit."
+msgstr ""
+
+#: inc/customizer/theme-options.php:88
+msgid "Online Courses"
+msgstr ""
+
+#: inc/customizer/theme-options.php:89 inc/customizer/theme-options.php:93
+#: inc/customizer/theme-options.php:97 inc/customizer/theme-options.php:101
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum "
+"risus ac tellus luctus, ut volutpat"
+msgstr ""
+
+#: inc/customizer/theme-options.php:92
+msgid "Syllable"
+msgstr ""
+
+#: inc/customizer/theme-options.php:96
+msgid "Exam Pattern"
+msgstr ""
+
+#: inc/customizer/theme-options.php:100
+msgid "Graphic Design"
+msgstr ""
+
+#: inc/customizer/theme-options.php:118
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/theme-options.php:119
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text ever since the "
+"1500s, when an unknown printer took a galley of type and scrambled it to "
+"make a type specimen book."
+msgstr ""
+
+#: inc/customizer/theme-options.php:120
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer/theme-options.php:126
+msgid "Latest News"
+msgstr ""
+
+#: inc/customizer/theme-options.php:127
+msgid "News sub title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:133
+msgid "About Edu Axis"
+msgstr ""
+
+#: inc/customizer/theme-options.php:134
+msgid ""
+"Edu Axis is WordPress Education theme by Refresh Themes. It has multiple "
+"sections for homepage like 'Homepage slider', 'Why us', 'About us', "
+"'Available courses' and more."
+msgstr ""
+
+#: inc/customizer/theme-options.php:136
+msgid "Available classes"
+msgstr ""
+
+#: inc/customizer/theme-options.php:138
+msgid "Javascript"
+msgstr ""
+
+#: inc/customizer/theme-options.php:139
+msgid ""
+"Quisque velit nisi, pretium ut lacinia in, elementum id enim. Praesent "
+"sapien massa, convallis a pellentesque nec, egestas non nisi."
+msgstr ""
+
+#: inc/customizer/theme-options.php:140
+msgid "PHP"
+msgstr ""
+
+#: inc/customizer/theme-options.php:141
+msgid ""
+"Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. "
+"Pellentesque in ipsum id orci porta dapibus."
+msgstr ""
+
+#: inc/customizer/theme-options.php:142
+msgid "Angular"
+msgstr ""
+
+#: inc/customizer/theme-options.php:143
+msgid ""
+"Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere "
+"blandit."
+msgstr ""
+
+#: inc/customizer/theme-options.php:254
+msgid "Page Slider"
+msgstr ""
+
+#: inc/customizer/theme-options.php:255
+msgid "Post Slider"
+msgstr ""
+
+#: inc/customizer/theme-options.php:270
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:271
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/helper/helper-common.php:38
+msgid "Add primary menu"
+msgstr ""
+
+#: inc/helper/helper-common.php:41
+msgid "Add top right menu"
+msgstr ""
+
+#: inc/helper/helper-common.php:44
+msgid "Add top left menu"
+msgstr ""
+
+#: inc/helper/helper-common.php:47
+msgid "Add a menu"
+msgstr ""
+
+#: inc/helper/helper-common.php:79
+msgid "Enable"
+msgstr ""
+
+#: inc/helper/helper-common.php:80
+msgid "Contact Number"
+msgstr ""
+
+#: inc/helper/helper-common.php:209
+msgid "Category : "
+msgstr ""
+
+#: inc/helper/helper-common.php:211 inc/helper/helper-common.php:213
+#: inc/helper/helper-common.php:215 inc/helper/helper-common.php:217
+#: inc/helper/helper-common.php:219
+msgid "Archive : "
+msgstr ""
+
+#: inc/helper/helper-common.php:223
+msgid "Author : "
+msgstr ""
+
+#: inc/helper/helper-common.php:225
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:5
+msgid "500px"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:6
+msgid "accessible-icon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:7
+msgid "accusoft"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:8
+msgid "acquisitions-incorporated"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:9
+msgid "ad"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:10 inc/helper/helper-fontawesome.php:11
+msgid "address-book"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:12 inc/helper/helper-fontawesome.php:13
+msgid "address-card"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:14
+msgid "adjust"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:15
+msgid "adn"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:16
+msgid "adobe"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:17
+msgid "adversal"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:18
+msgid "affiliatetheme"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:19
+msgid "air-freshener"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:20
+msgid "airbnb"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:21
+msgid "algolia"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:22
+msgid "align-center"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:23
+msgid "align-justify"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:24
+msgid "align-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:25
+msgid "align-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:26
+msgid "alipay"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:27
+msgid "allergies"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:28
+msgid "amazon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:29
+msgid "amazon-pay"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:30
+msgid "ambulance"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:31
+msgid "american-sign-language-interpreting"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:32
+msgid "amilia"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:33
+msgid "anchor"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:34
+msgid "android"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:35
+msgid "angellist"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:36
+msgid "angle-double-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:37
+msgid "angle-double-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:38
+msgid "angle-double-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:39
+msgid "angle-double-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:40
+msgid "angle-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:41
+msgid "angle-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:42
+msgid "angle-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:43
+msgid "angle-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:44 inc/helper/helper-fontawesome.php:45
+msgid "angry"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:46
+msgid "angrycreative"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:47
+msgid "angular"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:48
+msgid "ankh"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:49
+msgid "app-store"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:50
+msgid "app-store-ios"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:51
+msgid "apper"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:52
+msgid "apple"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:53
+msgid "apple-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:54
+msgid "apple-pay"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:55
+msgid "archive"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:56
+msgid "archway"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:57 inc/helper/helper-fontawesome.php:58
+msgid "arrow-alt-circle-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:59 inc/helper/helper-fontawesome.php:60
+msgid "arrow-alt-circle-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:61 inc/helper/helper-fontawesome.php:62
+msgid "arrow-alt-circle-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:63 inc/helper/helper-fontawesome.php:64
+msgid "arrow-alt-circle-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:65
+msgid "arrow-circle-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:66
+msgid "arrow-circle-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:67
+msgid "arrow-circle-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:68
+msgid "arrow-circle-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:69
+msgid "arrow-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:70
+msgid "arrow-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:71
+msgid "arrow-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:72
+msgid "arrow-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:73
+msgid "arrows-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:74
+msgid "arrows-alt-h"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:75
+msgid "arrows-alt-v"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:76
+msgid "artstation"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:77
+msgid "assistive-listening-systems"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:78
+msgid "asterisk"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:79
+msgid "asymmetrik"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:80
+msgid "at"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:81
+msgid "atlas"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:82
+msgid "atlassian"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:83
+msgid "atom"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:84
+msgid "audible"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:85
+msgid "audio-description"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:86
+msgid "autoprefixer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:87
+msgid "avianex"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:88
+msgid "aviato"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:89
+msgid "award"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:90
+msgid "aws"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:91
+msgid "baby"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:92
+msgid "baby-carriage"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:93
+msgid "backspace"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:94
+msgid "backward"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:95
+msgid "bacon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:96
+msgid "balance-scale"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:97
+msgid "ban"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:98
+msgid "band-aid"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:99
+msgid "bandcamp"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:100
+msgid "barcode"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:101
+msgid "bars"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:102
+msgid "baseball-ball"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:103
+msgid "basketball-ball"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:104
+msgid "bath"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:105
+msgid "battery-empty"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:106
+msgid "battery-full"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:107
+msgid "battery-half"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:108
+msgid "battery-quarter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:109
+msgid "battery-three-quarters"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:110
+msgid "battle-net"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:111
+msgid "bed"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:112
+msgid "beer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:113
+msgid "behance"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:114
+msgid "behance-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:115 inc/helper/helper-fontawesome.php:116
+msgid "bell"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:117 inc/helper/helper-fontawesome.php:118
+msgid "bell-slash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:119
+msgid "bezier-curve"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:120
+msgid "bible"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:121
+msgid "bicycle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:122
+msgid "bimobject"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:123
+msgid "binoculars"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:124
+msgid "biohazard"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:125
+msgid "birthday-cake"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:126
+msgid "bitbucket"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:127
+msgid "bitcoin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:128
+msgid "bity"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:129
+msgid "black-tie"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:130
+msgid "blackberry"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:131
+msgid "blender"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:132
+msgid "blender-phone"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:133
+msgid "blind"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:134
+msgid "blog"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:135
+msgid "blogger"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:136
+msgid "blogger-b"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:137
+msgid "bluetooth"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:138
+msgid "bluetooth-b"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:139
+msgid "bold"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:140
+msgid "bolt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:141
+msgid "bomb"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:142
+msgid "bone"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:143
+msgid "bong"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:144
+msgid "book"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:145
+msgid "book-dead"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:146
+msgid "book-medical"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:147
+msgid "book-open"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:148
+msgid "book-reader"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:149 inc/helper/helper-fontawesome.php:150
+msgid "bookmark"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:151
+msgid "bootstrap"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:152
+msgid "bowling-ball"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:153
+msgid "box"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:154
+msgid "box-open"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:155
+msgid "boxes"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:156
+msgid "braille"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:157
+msgid "brain"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:158
+msgid "bread-slice"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:159
+msgid "briefcase"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:160
+msgid "briefcase-medical"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:161
+msgid "broadcast-tower"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:162
+msgid "broom"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:163
+msgid "brush"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:164
+msgid "btc"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:165
+msgid "buffer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:166
+msgid "bug"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:167 inc/helper/helper-fontawesome.php:168
+msgid "building"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:169
+msgid "bullhorn"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:170
+msgid "bullseye"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:171
+msgid "burn"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:172
+msgid "buromobelexperte"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:173
+msgid "bus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:174
+msgid "bus-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:175
+msgid "business-time"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:176
+msgid "buysellads"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:177
+msgid "calculator"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:178 inc/helper/helper-fontawesome.php:179
+msgid "calendar"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:180 inc/helper/helper-fontawesome.php:181
+msgid "calendar-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:182 inc/helper/helper-fontawesome.php:183
+msgid "calendar-check"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:184
+msgid "calendar-day"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:185 inc/helper/helper-fontawesome.php:186
+msgid "calendar-minus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:187 inc/helper/helper-fontawesome.php:188
+msgid "calendar-plus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:189 inc/helper/helper-fontawesome.php:190
+msgid "calendar-times"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:191
+msgid "calendar-week"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:192
+msgid "camera"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:193
+msgid "camera-retro"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:194
+msgid "campground"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:195
+msgid "canadian-maple-leaf"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:196
+msgid "candy-cane"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:197
+msgid "cannabis"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:198
+msgid "capsules"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:199
+msgid "car"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:200
+msgid "car-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:202
+msgid "caret-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:203
+msgid "caret-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:204
+msgid "caret-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:205 inc/helper/helper-fontawesome.php:206
+msgid "caret-square-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:207 inc/helper/helper-fontawesome.php:208
+msgid "caret-square-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:209 inc/helper/helper-fontawesome.php:210
+msgid "caret-square-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:211 inc/helper/helper-fontawesome.php:212
+msgid "caret-square-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:213
+msgid "caret-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:214
+msgid "cart-arrow-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:215
+msgid "cart-plus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:216
+msgid "cc-amazon-pay"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:217
+msgid "cc-amex"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:218
+msgid "cc-apple-pay"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:219
+msgid "cc-diners-club"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:220
+msgid "cc-discover"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:221
+msgid "cc-jcb"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:222
+msgid "cc-mastercard"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:223
+msgid "cc-paypal"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:224
+msgid "cc-stripe"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:225
+msgid "cc-visa"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:226
+msgid "centercode"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:227
+msgid "certificate"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:228
+msgid "chart-area"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:229 inc/helper/helper-fontawesome.php:230
+msgid "chart-bar"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:231
+msgid "chart-line"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:232
+msgid "chart-pie"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:233
+msgid "check"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:234 inc/helper/helper-fontawesome.php:235
+msgid "check-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:236 inc/helper/helper-fontawesome.php:237
+msgid "check-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:238
+msgid "chess"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:239
+msgid "chess-bishop"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:240
+msgid "chess-board"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:241
+msgid "chess-king"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:242
+msgid "chess-knight"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:243
+msgid "chess-pawn"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:244
+msgid "chess-queen"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:245
+msgid "chess-rook"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:246
+msgid "chevron-circle-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:247
+msgid "chevron-circle-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:248
+msgid "chevron-circle-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:249
+msgid "chevron-circle-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:250
+msgid "chevron-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:251
+msgid "chevron-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:252
+msgid "chevron-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:253
+msgid "chevron-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:254
+msgid "child"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:255
+msgid "chrome"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:256 inc/helper/helper-fontawesome.php:257
+msgid "circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:258
+msgid "circle-notch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:259 inc/helper/helper-fontawesome.php:260
+msgid "clipboard"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:261
+msgid "clipboard-check"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:262
+msgid "clipboard-list"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:263 inc/helper/helper-fontawesome.php:264
+msgid "clock"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:265 inc/helper/helper-fontawesome.php:266
+msgid "clone"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:267 inc/helper/helper-fontawesome.php:268
+msgid "closed-captioning"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:269
+msgid "cloud"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:270
+msgid "cloud-download-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:271
+msgid "cloud-upload-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:272
+msgid "cloudscale"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:273
+msgid "cloudsmith"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:274
+msgid "cloudversify"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:275
+msgid "code"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:276
+msgid "code-branch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:277
+msgid "codepen"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:278
+msgid "codiepie"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:279
+msgid "coffee"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:280
+msgid "cog"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:281
+msgid "cogs"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:282
+msgid "columns"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:283 inc/helper/helper-fontawesome.php:284
+msgid "comment"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:285 inc/helper/helper-fontawesome.php:286
+msgid "comment-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:287
+msgid "comment-dots"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:288
+msgid "comment-slash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:289 inc/helper/helper-fontawesome.php:290
+msgid "comments"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:291 inc/helper/helper-fontawesome.php:292
+msgid "compass"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:293
+msgid "compress"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:294
+msgid "connectdevelop"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:295
+msgid "contao"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:296 inc/helper/helper-fontawesome.php:297
+msgid "copy"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:298 inc/helper/helper-fontawesome.php:299
+msgid "copyright"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:300
+msgid "couch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:301
+msgid "cpanel"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:302
+msgid "creative-commons"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:303 inc/helper/helper-fontawesome.php:304
+msgid "credit-card"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:305
+msgid "crop"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:306
+msgid "crosshairs"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:307
+msgid "css3"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:308
+msgid "css3-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:309
+msgid "cube"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:310
+msgid "cubes"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:311
+msgid "cut"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:312
+msgid "cuttlefish"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:313
+msgid "d-and-d"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:314
+msgid "dashcube"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:315
+msgid "database"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:316
+msgid "deaf"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:317
+msgid "delicious"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:318
+msgid "deploydog"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:319
+msgid "deskpro"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:320
+msgid "desktop"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:321
+msgid "deviantart"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:322
+msgid "diagnoses"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:323
+msgid "digg"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:324
+msgid "digital-ocean"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:325
+msgid "discord"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:326
+msgid "discourse"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:327
+msgid "dna"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:328
+msgid "dochub"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:329
+msgid "docker"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:330
+msgid "dollar-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:331
+msgid "dolly"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:332
+msgid "dolly-flatbed"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:333
+msgid "donate"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:334 inc/helper/helper-fontawesome.php:335
+msgid "dot-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:336
+msgid "dove"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:337
+msgid "download"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:338
+msgid "draft2digital"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:339
+msgid "dribbble"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:340
+msgid "dribbble-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:341
+msgid "dropbox"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:342
+msgid "drupal"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:343
+msgid "dyalog"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:344
+msgid "earlybirds"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:345
+msgid "edge"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:346 inc/helper/helper-fontawesome.php:347
+msgid "edit"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:348
+msgid "eject"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:349
+msgid "elementor"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:350
+msgid "ellipsis-h"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:351
+msgid "ellipsis-v"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:352
+msgid "ember"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:353
+msgid "empire"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:354 inc/helper/helper-fontawesome.php:355
+msgid "envelope"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:356 inc/helper/helper-fontawesome.php:357
+msgid "envelope-open"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:358
+msgid "envelope-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:359
+msgid "envira"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:360
+msgid "eraser"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:361
+msgid "erlang"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:362
+msgid "ethereum"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:363
+msgid "etsy"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:364
+msgid "euro-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:365
+msgid "exchange-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:366
+msgid "exclamation"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:367
+msgid "exclamation-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:368
+msgid "exclamation-triangle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:369
+msgid "expand"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:370
+msgid "expand-arrows-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:371
+msgid "expeditedssl"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:372
+msgid "external-link-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:373
+msgid "external-link-square-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:374
+msgid "eye"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:375
+msgid "eye-dropper"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:376 inc/helper/helper-fontawesome.php:377
+msgid "eye-slash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:378
+msgid "facebook"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:379
+msgid "facebook-f"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:380
+msgid "facebook-messenger"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:381
+msgid "facebook-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:382
+msgid "fast-backward"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:383
+msgid "fast-forward"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:384
+msgid "fax"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:385
+msgid "female"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:386
+msgid "fighter-jet"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:387 inc/helper/helper-fontawesome.php:388
+msgid "file"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:389 inc/helper/helper-fontawesome.php:390
+msgid "file-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:391 inc/helper/helper-fontawesome.php:392
+msgid "file-archive"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:393 inc/helper/helper-fontawesome.php:394
+msgid "file-audio"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:395 inc/helper/helper-fontawesome.php:396
+msgid "file-code"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:397 inc/helper/helper-fontawesome.php:398
+msgid "file-excel"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:399 inc/helper/helper-fontawesome.php:400
+msgid "file-image"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:401
+msgid "file-medical"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:402
+msgid "file-medical-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:403 inc/helper/helper-fontawesome.php:404
+msgid "file-pdf"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:405 inc/helper/helper-fontawesome.php:406
+msgid "file-powerpoint"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:407 inc/helper/helper-fontawesome.php:408
+msgid "file-video"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:409 inc/helper/helper-fontawesome.php:410
+msgid "file-word"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:411
+msgid "film"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:412
+msgid "filter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:413
+msgid "fire"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:414
+msgid "fire-extinguisher"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:415
+msgid "firefox"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:416
+msgid "first-aid"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:417
+msgid "first-order"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:418
+msgid "firstdraft"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:419 inc/helper/helper-fontawesome.php:420
+msgid "flag"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:421
+msgid "flag-checkered"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:422
+msgid "flask"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:423
+msgid "flickr"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:424
+msgid "flipboard"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:425
+msgid "fly"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:426 inc/helper/helper-fontawesome.php:427
+msgid "folder"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:428 inc/helper/helper-fontawesome.php:429
+msgid "folder-open"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:430
+msgid "font"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:431
+msgid "font-awesome"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:432
+msgid "font-awesome-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:433
+msgid "font-awesome-flag"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:434
+msgid "fonticons"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:435
+msgid "fonticons-fi"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:436
+msgid "football-ball"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:437
+msgid "fort-awesome"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:438
+msgid "fort-awesome-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:439
+msgid "forumbee"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:440
+msgid "forward"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:441
+msgid "foursquare"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:442
+msgid "free-code-camp"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:443
+msgid "freebsd"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:444 inc/helper/helper-fontawesome.php:445
+msgid "frown"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:446 inc/helper/helper-fontawesome.php:447
+msgid "futbol"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:448
+msgid "gamepad"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:449
+msgid "gavel"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:450 inc/helper/helper-fontawesome.php:451
+msgid "gem"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:452
+msgid "genderless"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:453
+msgid "get-pocket"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:454
+msgid "gg"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:455
+msgid "gg-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:456
+msgid "gift"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:457
+msgid "git"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:458
+msgid "git-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:459
+msgid "github"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:460
+msgid "github-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:461
+msgid "github-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:462
+msgid "gitkraken"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:463
+msgid "gitlab"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:464
+msgid "gitter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:465
+msgid "glass-martini"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:466
+msgid "glide"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:467
+msgid "glide-g"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:468
+msgid "globe"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:469
+msgid "gofore"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:470
+msgid "golf-ball"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:471
+msgid "goodreads"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:472
+msgid "goodreads-g"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:473
+msgid "google"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:474
+msgid "google-drive"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:475
+msgid "google-play"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:476
+msgid "google-plus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:477
+msgid "google-plus-g"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:478
+msgid "google-plus-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:479
+msgid "google-wallet"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:480
+msgid "graduation-cap"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:481
+msgid "gratipay"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:482
+msgid "grav"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:483
+msgid "gripfire"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:484
+msgid "grunt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:485
+msgid "gulp"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:486
+msgid "h-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:487
+msgid "hacker-news"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:488
+msgid "hacker-news-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:489
+msgid "hand-holding"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:490
+msgid "hand-holding-heart"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:491
+msgid "hand-holding-usd"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:492 inc/helper/helper-fontawesome.php:493
+msgid "hand-lizard"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:494 inc/helper/helper-fontawesome.php:495
+msgid "hand-paper"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:496 inc/helper/helper-fontawesome.php:497
+msgid "hand-peace"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:498 inc/helper/helper-fontawesome.php:499
+msgid "hand-point-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:500 inc/helper/helper-fontawesome.php:501
+msgid "hand-point-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:502 inc/helper/helper-fontawesome.php:503
+msgid "hand-point-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:504 inc/helper/helper-fontawesome.php:505
+msgid "hand-point-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:506 inc/helper/helper-fontawesome.php:507
+msgid "hand-pointer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:508 inc/helper/helper-fontawesome.php:509
+msgid "hand-rock"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:510 inc/helper/helper-fontawesome.php:511
+msgid "hand-scissors"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:512 inc/helper/helper-fontawesome.php:513
+msgid "hand-spock"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:514
+msgid "hands"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:515
+msgid "hands-helping"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:516 inc/helper/helper-fontawesome.php:517
+msgid "handshake"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:518
+msgid "hashtag"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:519 inc/helper/helper-fontawesome.php:520
+msgid "hdd"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:521
+msgid "heading"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:522
+msgid "headphones"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:523 inc/helper/helper-fontawesome.php:524
+msgid "heart"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:525
+msgid "heartbeat"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:526
+msgid "hips"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:527
+msgid "hire-a-helper"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:528
+msgid "history"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:529
+msgid "hockey-puck"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:530
+msgid "home"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:531
+msgid "hooli"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:532 inc/helper/helper-fontawesome.php:533
+msgid "hospital"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:534
+msgid "hospital-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:535
+msgid "hospital-symbol"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:536
+msgid "hotjar"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:537 inc/helper/helper-fontawesome.php:538
+msgid "hourglass"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:539
+msgid "hourglass-end"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:540
+msgid "hourglass-half"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:541
+msgid "hourglass-start"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:542
+msgid "houzz"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:543
+msgid "html5"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:544
+msgid "hubspot"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:545
+msgid "i-cursor"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:546 inc/helper/helper-fontawesome.php:547
+msgid "id-badge"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:548 inc/helper/helper-fontawesome.php:549
+msgid "id-card"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:550
+msgid "id-card-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:551 inc/helper/helper-fontawesome.php:552
+msgid "image"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:553 inc/helper/helper-fontawesome.php:554
+msgid "images"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:555
+msgid "imdb"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:556
+msgid "inbox"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:557
+msgid "indent"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:558
+msgid "industry"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:559
+msgid "info"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:560
+msgid "info-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:561
+msgid "instagram"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:562
+msgid "internet-explorer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:563
+msgid "ioxhost"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:564
+msgid "italic"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:565
+msgid "itunes"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:566
+msgid "itunes-note"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:567
+msgid "java"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:568
+msgid "jenkins"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:569
+msgid "joget"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:570
+msgid "joomla"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:571
+msgid "js"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:572
+msgid "js-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:573
+msgid "jsfiddle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:574
+msgid "key"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:575 inc/helper/helper-fontawesome.php:576
+msgid "keyboard"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:577
+msgid "keycdn"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:578
+msgid "kickstarter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:579
+msgid "kickstarter-k"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:580
+msgid "korvue"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:581
+msgid "language"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:582
+msgid "laptop"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:583
+msgid "laravel"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:584
+msgid "lastfm"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:585
+msgid "lastfm-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:586
+msgid "leaf"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:587
+msgid "leanpub"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:588 inc/helper/helper-fontawesome.php:589
+msgid "lemon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:590
+msgid "less"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:591
+msgid "level-down-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:592
+msgid "level-up-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:593 inc/helper/helper-fontawesome.php:594
+msgid "life-ring"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:595 inc/helper/helper-fontawesome.php:596
+msgid "lightbulb"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:597
+msgid "line"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:598
+msgid "link"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:599
+msgid "linkedin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:600
+msgid "linkedin-in"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:601
+msgid "linode"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:602
+msgid "linux"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:603
+msgid "lira-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:604
+msgid "list"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:605 inc/helper/helper-fontawesome.php:606
+msgid "list-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:607
+msgid "list-ol"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:608
+msgid "list-ul"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:609
+msgid "location-arrow"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:610
+msgid "lock"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:611
+msgid "lock-open"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:612
+msgid "long-arrow-alt-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:613
+msgid "long-arrow-alt-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:614
+msgid "long-arrow-alt-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:615
+msgid "long-arrow-alt-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:616
+msgid "low-vision"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:617
+msgid "lyft"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:618
+msgid "magento"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:619
+msgid "magic"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:620
+msgid "magnet"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:621
+msgid "male"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:622 inc/helper/helper-fontawesome.php:623
+msgid "map"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:624
+msgid "map-marker"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:625
+msgid "map-marker-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:626
+msgid "map-pin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:627
+msgid "map-signs"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:628
+msgid "mars"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:629
+msgid "mars-double"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:630
+msgid "mars-stroke"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:631
+msgid "mars-stroke-h"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:632
+msgid "mars-stroke-v"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:633
+msgid "maxcdn"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:634
+msgid "medapps"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:635
+msgid "medium"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:636
+msgid "medium-m"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:637
+msgid "medkit"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:638
+msgid "medrt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:639
+msgid "meetup"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:640 inc/helper/helper-fontawesome.php:641
+msgid "meh"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:642
+msgid "mercury"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:643
+msgid "microchip"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:644
+msgid "microphone"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:645
+msgid "microphone-slash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:646
+msgid "microsoft"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:647
+msgid "minus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:648
+msgid "minus-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:649 inc/helper/helper-fontawesome.php:650
+msgid "minus-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:651
+msgid "mix"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:652
+msgid "mixcloud"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:653
+msgid "mizuni"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:654
+msgid "mobile"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:655
+msgid "mobile-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:656
+msgid "modx"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:657
+msgid "monero"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:658 inc/helper/helper-fontawesome.php:659
+msgid "money-bill-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:660 inc/helper/helper-fontawesome.php:661
+msgid "moon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:662
+msgid "motorcycle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:663
+msgid "mouse-pointer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:664
+msgid "music"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:665
+msgid "napster"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:666
+msgid "neuter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:667 inc/helper/helper-fontawesome.php:668
+msgid "newspaper"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:669
+msgid "nintendo-switch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:670
+msgid "node"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:671
+msgid "node-js"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:672
+msgid "notes-medical"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:673
+msgid "npm"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:674
+msgid "ns8"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:675
+msgid "nutritionix"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:676 inc/helper/helper-fontawesome.php:677
+msgid "object-group"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:678 inc/helper/helper-fontawesome.php:679
+msgid "object-ungroup"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:680
+msgid "odnoklassniki"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:681
+msgid "odnoklassniki-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:682
+msgid "opencart"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:683
+msgid "openid"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:684
+msgid "opera"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:685
+msgid "optin-monster"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:686
+msgid "osi"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:687
+msgid "outdent"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:688
+msgid "page4"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:689
+msgid "pagelines"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:690
+msgid "paint-brush"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:691
+msgid "palfed"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:692
+msgid "pallet"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:693 inc/helper/helper-fontawesome.php:694
+msgid "paper-plane"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:695
+msgid "paperclip"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:696
+msgid "parachute-box"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:697
+msgid "paragraph"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:698
+msgid "paste"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:699
+msgid "patreon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:700
+msgid "pause"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:701 inc/helper/helper-fontawesome.php:702
+msgid "pause-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:703
+msgid "paw"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:704
+msgid "paypal"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:705
+msgid "pen-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:706
+msgid "pencil-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:707
+msgid "people-carry"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:708
+msgid "percent"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:709
+msgid "periscope"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:710
+msgid "phabricator"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:711
+msgid "phoenix-framework"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:712
+msgid "phone"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:713
+msgid "phone-slash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:714
+msgid "phone-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:715
+msgid "phone-volume"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:716
+msgid "php"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:717
+msgid "pied-piper"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:718
+msgid "pied-piper-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:719
+msgid "pied-piper-hat"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:720
+msgid "pied-piper-pp"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:721
+msgid "piggy-bank"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:722
+msgid "pills"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:723
+msgid "pinterest"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:724
+msgid "pinterest-p"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:725
+msgid "pinterest-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:726
+msgid "plane"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:727
+msgid "play"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:728 inc/helper/helper-fontawesome.php:729
+msgid "play-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:730
+msgid "playstation"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:731
+msgid "plug"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:732
+msgid "plus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:733
+msgid "plus-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:734 inc/helper/helper-fontawesome.php:735
+msgid "plus-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:736
+msgid "podcast"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:737
+msgid "poo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:738
+msgid "pound-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:739
+msgid "power-off"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:740
+msgid "prescription-bottle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:741
+msgid "prescription-bottle-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:742
+msgid "print"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:743
+msgid "procedures"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:744
+msgid "product-hunt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:745
+msgid "pushed"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:746
+msgid "puzzle-piece"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:747
+msgid "python"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:748
+msgid "qq"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:749
+msgid "qrcode"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:750
+msgid "question"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:751 inc/helper/helper-fontawesome.php:752
+msgid "question-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:753
+msgid "quidditch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:754
+msgid "quinscape"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:755
+msgid "quora"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:756
+msgid "quote-left"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:757
+msgid "quote-right"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:758
+msgid "random"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:759
+msgid "ravelry"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:760
+msgid "react"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:761
+msgid "readme"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:762
+msgid "rebel"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:763
+msgid "recycle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:764
+msgid "red-river"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:765
+msgid "reddit"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:766
+msgid "reddit-alien"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:767
+msgid "reddit-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:768
+msgid "redo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:769
+msgid "redo-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:770 inc/helper/helper-fontawesome.php:771
+msgid "registered"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:772
+msgid "rendact"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:773
+msgid "renren"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:774
+msgid "reply"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:775
+msgid "reply-all"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:776
+msgid "replyd"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:777
+msgid "resolving"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:778
+msgid "retweet"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:779
+msgid "ribbon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:780
+msgid "road"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:781
+msgid "rocket"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:782
+msgid "rocketchat"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:783
+msgid "rockrms"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:784
+msgid "rss"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:785
+msgid "rss-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:786
+msgid "ruble-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:787
+msgid "rupee-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:788
+msgid "safari"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:789
+msgid "sass"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:790 inc/helper/helper-fontawesome.php:791
+msgid "save"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:792
+msgid "schlix"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:793
+msgid "scribd"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:794
+msgid "search"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:795
+msgid "search-minus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:796
+msgid "search-plus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:797
+msgid "searchengin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:798
+msgid "seedling"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:799
+msgid "sellcast"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:800
+msgid "sellsy"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:801
+msgid "server"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:802
+msgid "servicestack"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:803
+msgid "share"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:804
+msgid "share-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:805
+msgid "share-alt-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:806 inc/helper/helper-fontawesome.php:807
+msgid "share-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:808
+msgid "shekel-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:809
+msgid "shield-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:810
+msgid "ship"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:811
+msgid "shipping-fast"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:812
+msgid "shirtsinbulk"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:813
+msgid "shopping-bag"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:814
+msgid "shopping-basket"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:815
+msgid "shopping-cart"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:816
+msgid "shower"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:817
+msgid "sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:818
+msgid "sign-in-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:819
+msgid "sign-language"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:820
+msgid "sign-out-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:821
+msgid "signal"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:822
+msgid "simplybuilt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:823
+msgid "sistrix"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:824
+msgid "sitemap"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:825
+msgid "skyatlas"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:826
+msgid "skype"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:827
+msgid "slack"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:828
+msgid "slack-hash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:829
+msgid "sliders-h"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:830
+msgid "slideshare"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:831 inc/helper/helper-fontawesome.php:832
+msgid "smile"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:833
+msgid "smoking"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:834
+msgid "snapchat"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:835
+msgid "snapchat-ghost"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:836
+msgid "snapchat-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:837 inc/helper/helper-fontawesome.php:838
+msgid "snowflake"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:839
+msgid "sort"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:840
+msgid "sort-alpha-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:841
+msgid "sort-alpha-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:842
+msgid "sort-amount-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:843
+msgid "sort-amount-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:844
+msgid "sort-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:845
+msgid "sort-numeric-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:846
+msgid "sort-numeric-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:847
+msgid "sort-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:848
+msgid "soundcloud"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:849
+msgid "space-shuttle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:850
+msgid "speakap"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:851
+msgid "spinner"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:852
+msgid "spotify"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:853 inc/helper/helper-fontawesome.php:854
+msgid "square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:855
+msgid "square-full"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:856
+msgid "stack-exchange"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:857
+msgid "stack-overflow"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:858 inc/helper/helper-fontawesome.php:859
+msgid "star"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:860 inc/helper/helper-fontawesome.php:861
+msgid "star-half"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:862
+msgid "staylinked"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:863
+msgid "steam"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:864
+msgid "steam-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:865
+msgid "steam-symbol"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:866
+msgid "step-backward"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:867
+msgid "step-forward"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:868
+msgid "stethoscope"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:869
+msgid "sticker-mule"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:870 inc/helper/helper-fontawesome.php:871
+msgid "sticky-note"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:872
+msgid "stop"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:873 inc/helper/helper-fontawesome.php:874
+msgid "stop-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:875
+msgid "stopwatch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:876
+msgid "strava"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:877
+msgid "street-view"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:878
+msgid "strikethrough"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:879
+msgid "stripe"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:880
+msgid "stripe-s"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:881
+msgid "studiovinari"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:882
+msgid "stumbleupon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:883
+msgid "stumbleupon-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:884
+msgid "subscript"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:885
+msgid "subway"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:886
+msgid "suitcase"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:887 inc/helper/helper-fontawesome.php:888
+msgid "sun"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:889
+msgid "superpowers"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:890
+msgid "superscript"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:891
+msgid "supple"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:892
+msgid "sync"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:893
+msgid "sync-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:894
+msgid "syringe"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:895
+msgid "table"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:896
+msgid "table-tennis"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:897
+msgid "tablet"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:898
+msgid "tablet-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:899
+msgid "tablets"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:900
+msgid "tachometer-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:901
+msgid "tag"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:902
+msgid "tags"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:903
+msgid "tape"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:904
+msgid "tasks"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:905
+msgid "taxi"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:906
+msgid "telegram"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:907
+msgid "telegram-plane"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:908
+msgid "tencent-weibo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:909
+msgid "terminal"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:910
+msgid "text-height"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:911
+msgid "text-width"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:912
+msgid "th"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:913
+msgid "th-large"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:914
+msgid "th-list"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:915
+msgid "themeisle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:916
+msgid "thermometer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:917
+msgid "thermometer-empty"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:918
+msgid "thermometer-full"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:919
+msgid "thermometer-half"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:920
+msgid "thermometer-quarter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:921
+msgid "thermometer-three-quarters"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:922 inc/helper/helper-fontawesome.php:923
+msgid "thumbs-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:924 inc/helper/helper-fontawesome.php:925
+msgid "thumbs-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:926
+msgid "thumbtack"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:927
+msgid "ticket-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:928
+msgid "times"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:929 inc/helper/helper-fontawesome.php:930
+msgid "times-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:931
+msgid "tint"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:932
+msgid "toggle-off"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:933
+msgid "toggle-on"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:934
+msgid "trademark"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:935
+msgid "train"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:936
+msgid "transgender"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:937
+msgid "transgender-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:938
+msgid "trash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:939 inc/helper/helper-fontawesome.php:940
+msgid "trash-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:941
+msgid "tree"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:942
+msgid "trello"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:943
+msgid "tripadvisor"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:944
+msgid "trophy"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:945
+msgid "truck"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:946
+msgid "truck-loading"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:947
+msgid "truck-moving"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:948
+msgid "tty"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:949
+msgid "tumblr"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:950
+msgid "tumblr-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:951
+msgid "tv"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:952
+msgid "twitch"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:953
+msgid "twitter"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:954
+msgid "twitter-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:955
+msgid "typo3"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:956
+msgid "uber"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:957
+msgid "uikit"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:958
+msgid "umbrella"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:959
+msgid "underline"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:960
+msgid "undo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:961
+msgid "undo-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:962
+msgid "uniregistry"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:963
+msgid "universal-access"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:964
+msgid "university"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:965
+msgid "unlink"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:966
+msgid "unlock"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:967
+msgid "unlock-alt"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:968
+msgid "untappd"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:969
+msgid "upload"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:970
+msgid "usb"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:971 inc/helper/helper-fontawesome.php:972
+msgid "user"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:973 inc/helper/helper-fontawesome.php:974
+msgid "user-circle"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:975
+msgid "user-md"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:976
+msgid "user-plus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:977
+msgid "user-secret"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:978
+msgid "user-times"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:979
+msgid "users"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:980
+msgid "ussunnah"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:981
+msgid "utensil-spoon"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:982
+msgid "utensils"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:983
+msgid "vaadin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:984
+msgid "venus"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:985
+msgid "venus-double"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:986
+msgid "venus-mars"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:987
+msgid "viacoin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:988
+msgid "viadeo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:989
+msgid "viadeo-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:990
+msgid "vial"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:991
+msgid "vials"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:992
+msgid "viber"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:993
+msgid "video"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:994
+msgid "video-slash"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:995
+msgid "vimeo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:996
+msgid "vimeo-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:997
+msgid "vimeo-v"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:998
+msgid "vine"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:999
+msgid "vk"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1000
+msgid "vnv"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1001
+msgid "volleyball-ball"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1002
+msgid "volume-down"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1003
+msgid "volume-off"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1004
+msgid "volume-up"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1005
+msgid "vuejs"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1006
+msgid "warehouse"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1007
+msgid "weibo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1008
+msgid "weight"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1009
+msgid "weixin"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1010
+msgid "whatsapp"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1011
+msgid "whatsapp-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1012
+msgid "wheelchair"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1013
+msgid "whmcs"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1014
+msgid "wifi"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1015
+msgid "wikipedia-w"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1016
+#: inc/helper/helper-fontawesome.php:1017
+msgid "window-close"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1018
+#: inc/helper/helper-fontawesome.php:1019
+msgid "window-maximize"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1020
+#: inc/helper/helper-fontawesome.php:1021
+msgid "window-minimize"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1022
+#: inc/helper/helper-fontawesome.php:1023
+msgid "window-restore"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1024
+msgid "windows"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1025
+msgid "wine-glass"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1026
+msgid "won-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1027
+msgid "wordpress"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1028
+msgid "wordpress-simple"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1029
+msgid "wpbeginner"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1030
+msgid "wpexplorer"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1031
+msgid "wpforms"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1032
+msgid "wrench"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1033
+msgid "x-ray"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1034
+msgid "xbox"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1035
+msgid "xing"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1036
+msgid "xing-square"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1037
+msgid "y-combinator"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1038
+msgid "yahoo"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1039
+msgid "yandex"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1040
+msgid "yandex-international"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1041
+msgid "yelp"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1042
+msgid "yen-sign"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1043
+msgid "yoast"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1044
+msgid "youtube"
+msgstr ""
+
+#: inc/helper/helper-fontawesome.php:1045
+msgid "youtube-square"
+msgstr ""
+
+#: inc/hooks/template-blocks.php:139
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/template-blocks.php:260 inc/hooks/template-blocks.php:262
+msgid "Menu"
+msgstr ""
+
+#: inc/template/template-tags.php:93
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template/template-tags.php:115
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template/template-tags.php:132 template-parts/content-page.php:37
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/tgmpa-hook.php:66
+msgid "Instagram Feed"
+msgstr ""
+
+#: inc/widgets/class-footer-widgets.php:79
+msgid "Footer Widget %d"
+msgstr ""
+
+#: inc/widgets/modules/author.php:15
+msgid "Widget for your profile."
+msgstr ""
+
+#: inc/widgets/modules/author.php:21
+msgid "Edu Axis Author"
+msgstr ""
+
+#: inc/widgets/modules/author.php:29
+msgid "About the Author"
+msgstr ""
+
+#: inc/widgets/modules/author.php:32
+msgid "Select Page"
+msgstr ""
+
+#: inc/widgets/modules/author.php:38
+msgid "Blogger"
+msgstr ""
+
+#: inc/widgets/modules/author.php:41
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/modules/author.php:43
+msgid "About Me"
+msgstr ""
+
+#: inc/widgets/modules/author.php:46
+msgid "Select Social Menu"
+msgstr ""
+
+#: inc/widgets/modules/class-base-widget.php:69
+msgid "Type Not Supported."
+msgstr ""
+
+#: inc/widgets/modules/class-base-widget.php:89
+#: inc/widgets/modules/class-base-widget.php:219
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:231
+#. translators: number of items in the mini cart.
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:337
+msgid "Previous"
+msgstr ""
+
+#: inc/woocommerce.php:338
+msgid "Next"
+msgstr ""
+
+#: search.php:24
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search for: %s"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-archive.php:60 template-parts/content-search.php:60
+#: template-parts/content.php:63
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-archive.php:73 template-parts/content-page.php:23
+#: template-parts/content-search.php:73 template-parts/content.php:76
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Edu Axis"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://refreshthemes.com/downloads/edu-axis"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Edu Axis is WordPress Education themes by Refresh Themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Refresh Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://refreshthemes.com"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template/template-tags.php:73
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
